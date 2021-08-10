@@ -1,0 +1,22 @@
+.categories {
+    // category container
+    // used flex display to work with order property
+    display: flex;
+
+    .category {
+        &.active {
+            // Any styles for activated categories
+            font-weight: bold;
+            order: -1;
+        }
+        &[data-category="all"] {
+            // Any styles for the 'All' category
+            order: -2;
+        }
+    }
+}
+
+.item.hidden-item {
+    // hidden items
+    display: none;
+}
