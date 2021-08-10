@@ -6,7 +6,7 @@ Simple, pure and lightweight Javascript library to filter items by categories.
 
 This is a simple tool to change DOM (toggle classes) and filter any items by categories.
 
-<!-- You can see a demo of it [here](https://damunjamiri.github.io/filtegory#demo). -->
+You can see a demo of it [here](https://codepen.io/DamunJamiri/full/vYmvVve).
 
 # Usage
 
