@@ -81,5 +81,6 @@ it's all over. enjoy :)
 
 | Class | Description |
 |-----------|-------------|
+| `.category[data-category="all"]` | Specifies the 'All' category. |
 | `.category.active` | Specifies that a category is enabled |
 | `.item.hidden-item` | Specifies that the item isn't in the selected categories and should be hidden. |
