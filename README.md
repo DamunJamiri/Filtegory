@@ -18,7 +18,7 @@ First include the stylesheet in your HTML head:
 <link rel="stylesheet" href="Filtegory.min.css">
 ```
 
-You can also [style Filtegory classes manually](). (recommended)
+You can also [style Filtegory classes manually](#styling-filtegory-classes-manually-optional). (recommended)
 
 ## Include JS
 
